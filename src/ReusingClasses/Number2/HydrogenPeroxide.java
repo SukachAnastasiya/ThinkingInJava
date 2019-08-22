@@ -74,7 +74,7 @@ public class HydrogenPeroxide extends Detergent {
         x.scrub();
         x.sterilize();
         System.out.println(x);
-        Detergent.main(args);
+        Cleanser.main(args);
     }
 }
 
