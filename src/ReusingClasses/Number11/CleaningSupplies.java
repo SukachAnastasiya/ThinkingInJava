@@ -32,7 +32,7 @@ class Cleanser {
     }
 }
 
-public class Detergent {
-    
+public class CleaningSupplies {
+
 }
 
