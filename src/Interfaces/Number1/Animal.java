@@ -2,16 +2,10 @@ package Interfaces.Number1;
 
 import java.util.Random;
 
-class Rodent{
-    void bite(){
-        System.out.println("bite");
-    }
-    void lick(){
-        System.out.println("lick ");
-    }
-    void eat(){
-        System.out.println("eat");
-    }
+abstract class Rodent{
+     abstract void bite();
+    abstract void lick();
+    abstract void eat();
 }
 
 class Hamster extends Rodent {
