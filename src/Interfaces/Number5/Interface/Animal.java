@@ -1,7 +1,7 @@
 package Interfaces.Number5.Interface;
 
 public interface Animal {
-    void eat();
-    void sleep();
-    void drink();
+    static void eat(){};
+    static void sleep(){};
+    static void drink(){};
 }
