@@ -30,8 +30,7 @@ class ChooseFood {
     }
 }
 
-public class OrderFood extends ChooseFood
-        implements Menu {
+public class OrderFood extends ChooseFood {
     void price(Breakfast b, Lunch l, Dinner d){
 
     };
