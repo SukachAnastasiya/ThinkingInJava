@@ -1,6 +1,4 @@
-package Interfaces.Number1;
-
-import java.util.Random;
+package interfaces.number1;
 
 abstract class Rodent{
      abstract void bite();

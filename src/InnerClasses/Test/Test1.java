@@ -1,4 +1,4 @@
-package InnerClasses.Test;
+package innerClasses.test;
 
 public class Test1 {
     class Inner{

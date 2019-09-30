@@ -1,4 +1,4 @@
-package ReusingClasses.Number8;
+package reusingClasses.number8;
 
 
 // Создайте базовый класс с единственным конструктором,

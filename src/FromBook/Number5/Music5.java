@@ -1,4 +1,4 @@
-package FromBook.Number5;
+package fromBook.number5;
 interface Instrument {
     // Compile-time constant:
     int VALUE = 5; // static & final

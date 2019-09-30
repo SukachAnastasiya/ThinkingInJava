@@ -1,4 +1,4 @@
-package Polymorphism.Number10;
+package polymorphism.number10;
 
 class Coffee {
     public void hot() {

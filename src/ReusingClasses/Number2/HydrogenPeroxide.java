@@ -1,4 +1,4 @@
-package ReusingClasses.Number2;
+package reusingClasses.number2;
 
 
 //Объявите новый класс производный от Detergent.

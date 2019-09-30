@@ -1,4 +1,4 @@
-package ReusingClasses.Number15;
+package reusingClasses.number15;
 
 class University{
     private String university;

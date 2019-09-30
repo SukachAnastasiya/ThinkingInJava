@@ -1,6 +1,5 @@
-package ControllingExecution.Number9;
+package controllingExecution.number9;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //Напишите метод, который получает целочисленный аргумент

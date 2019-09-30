@@ -1,4 +1,4 @@
-package ReusingClasses.Number18;
+package reusingClasses.number18;
 
 class Value{
     int i;

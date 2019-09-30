@@ -1,4 +1,4 @@
-package InitializationCleanup.Number17;
+package initializationCleanup.number17;
 
 //Создайте класс с конструктором, получающийм аргумент String.
 //Выведите значение аргумента во время конструирования.

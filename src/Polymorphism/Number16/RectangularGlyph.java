@@ -1,4 +1,4 @@
-package Polymorphism.Number16;
+package polymorphism.number16;
 
 class Glyph{
     void draw(){

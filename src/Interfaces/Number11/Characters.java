@@ -1,4 +1,4 @@
-package Interfaces.Number11;
+package interfaces.number11;
 
 class Apply {
     public static void process(Processor p, Object s) {

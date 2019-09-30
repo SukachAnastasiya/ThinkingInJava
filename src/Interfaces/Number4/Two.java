@@ -1,4 +1,4 @@
-package Interfaces.Number4;
+package interfaces.number4;
 
 //abstract class One{
 //    abstract void reference();

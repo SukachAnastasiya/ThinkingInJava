@@ -1,4 +1,4 @@
-package ReusingClasses.Number19;
+package reusingClasses.number19;
 class Arm{
     private String i;
     Arm(String ii ){i=ii;}

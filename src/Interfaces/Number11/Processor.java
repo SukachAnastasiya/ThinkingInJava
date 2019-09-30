@@ -1,4 +1,4 @@
-package Interfaces.Number11;
+package interfaces.number11;
 
 public interface Processor {
     String name();

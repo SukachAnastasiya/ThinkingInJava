@@ -1,4 +1,4 @@
-package ReusingClasses.Number5;
+package reusingClasses.number5;
 
 
 //Создайте два класса А и В, имеющие конструкторы по умолчанию,

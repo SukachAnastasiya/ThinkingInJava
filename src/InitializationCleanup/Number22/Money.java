@@ -1,4 +1,4 @@
-package InitializationCleanup.Number22;
+package initializationCleanup.number22;
 
 //Создайте перечисление с названиями шести типов бумажных денег.
 //Напишите команду switch для перечисления.

@@ -1,4 +1,4 @@
-package Interfaces.Number13;
+package interfaces.number13;
 
 interface Food {
     void eat();

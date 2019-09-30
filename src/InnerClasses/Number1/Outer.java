@@ -1,4 +1,4 @@
-package InnerClasses.Number1;
+package innerClasses.number1;
 
 public class Outer {
     class Inner{

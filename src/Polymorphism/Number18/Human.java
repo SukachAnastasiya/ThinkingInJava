@@ -1,4 +1,4 @@
-package Polymorphism.Number18;
+package polymorphism.number18;
 
 public enum  Human {
     OLYA, SASHA, MARGO;

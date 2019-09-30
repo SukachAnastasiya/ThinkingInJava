@@ -1,4 +1,4 @@
-package ControllingExecution.Number4;
+package controllingExecution.number4;
 
 import java.util.Scanner;
 

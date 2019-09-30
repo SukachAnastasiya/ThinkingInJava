@@ -1,4 +1,4 @@
-package InitializationCleanup.Number19;
+package initializationCleanup.number19;
 
 //Напишите метод, получающий список аргументов переменной длины с
 //массивом String. Убедитесь в том, что этому методу может

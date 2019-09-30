@@ -1,4 +1,4 @@
-package AccesControl.Number3.debug;
+package accesControl.number3.debug;
 
 public class Debug {
     public static void debug (String str){

@@ -1,4 +1,4 @@
-package Polymorphism.Number1;
+package polymorphism.number1;
 
 import java.util.Random;
 

@@ -1,6 +1,5 @@
-package ControllingExecution.Number2;
+package controllingExecution.number2;
 
-import java.util.Arrays;
 import java.util.Random;
 
 //Напишите программу, которая генерирует 25 случайных значений типа int.

@@ -1,4 +1,4 @@
-package AccesControl.Number3;
+package accesControl.number3;
 
 //Создайте два пакета debug и debugoff, содержащие одинаковые классы
 // с методами debug(). Первая версия выводит на консоль свой аргумент типа String,

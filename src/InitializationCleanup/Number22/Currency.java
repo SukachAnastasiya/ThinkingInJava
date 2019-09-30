@@ -1,4 +1,4 @@
-package InitializationCleanup.Number22;
+package initializationCleanup.number22;
 
 
 public enum Currency {

@@ -1,7 +1,6 @@
-package ControllingExecution.Number5;
+package controllingExecution.number5;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class Number5 {
     static int First = 0xae4;

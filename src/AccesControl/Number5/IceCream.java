@@ -1,4 +1,4 @@
-package AccesControl.Number5;
+package accesControl.number5;
 
 public class IceCream {
     public String taste1;

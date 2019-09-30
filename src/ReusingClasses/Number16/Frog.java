@@ -1,4 +1,4 @@
-package ReusingClasses.Number16;
+package reusingClasses.number16;
 
 // Создайте класс с именем Amphibian. Объявите производный от него класс с именем Frog.
 // Разместите в базовом классе несколько методов. В методе main() создайте объект Frog,

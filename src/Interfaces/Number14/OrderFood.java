@@ -1,4 +1,4 @@
-package Interfaces.Number14;
+package interfaces.number14;
 
 interface Breakfast {
     void scrambledEggs();

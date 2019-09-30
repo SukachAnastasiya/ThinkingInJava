@@ -1,4 +1,4 @@
-package Interfaces.Number10;
+package interfaces.number10;
 
 interface Instrument {
     void adjust();

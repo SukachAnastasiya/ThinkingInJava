@@ -1,4 +1,4 @@
-package Interfaces.Number3;
+package interfaces.number3;
 
 abstract class base{
     abstract void print();

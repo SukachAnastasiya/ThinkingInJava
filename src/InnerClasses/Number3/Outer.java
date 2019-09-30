@@ -1,4 +1,4 @@
-package InnerClasses.Number3;
+package innerClasses.number3;
 
 public class Outer {
     private String label;

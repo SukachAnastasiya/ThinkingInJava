@@ -1,4 +1,4 @@
-package Polymorphism.Number6;
+package polymorphism.number6;
 
 class Instrument {
     void play(Note n) {

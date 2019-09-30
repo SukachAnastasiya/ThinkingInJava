@@ -1,4 +1,4 @@
-package Object;
+package object;
 
 public class SimpleName {
     public static void main(String[] args) {

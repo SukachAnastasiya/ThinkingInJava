@@ -1,4 +1,4 @@
-package Interfaces.Number2;
+package interfaces.number2;
 
 public abstract class Verify {
     public static void main(String[] args) {

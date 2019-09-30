@@ -1,6 +1,4 @@
-package AccesControl.Number5;
-
-import AccesControl.Number5.IceCream;
+package accesControl.number5;
 
 //Создайте класс с полями и методами, обладающими разными
 // уровнями доступа: public, private, protected, доступом в пределах пакета

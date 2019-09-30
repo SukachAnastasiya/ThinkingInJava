@@ -1,7 +1,5 @@
-package Polymorphism.Number18;
+package polymorphism.number18;
 
-
-import ReusingClasses.Number5.C;
 
 import java.util.Random;
 

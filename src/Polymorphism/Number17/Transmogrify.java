@@ -1,4 +1,4 @@
-package Polymorphism.Number17;
+package polymorphism.number17;
 
 class Starship{
     public void act(){}

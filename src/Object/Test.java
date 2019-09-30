@@ -1,4 +1,4 @@
-package Object;
+package object;
 import java.lang.*;
 
 class A{}

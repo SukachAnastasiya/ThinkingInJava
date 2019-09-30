@@ -1,4 +1,4 @@
-package InitializationCleanup.Number15;
+package initializationCleanup.number15;
 
 //Создайте класс, производный от String,
 // инициализируемый в в секции инициализации экземпляров

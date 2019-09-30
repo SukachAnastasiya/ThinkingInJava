@@ -1,4 +1,4 @@
-package ControllingExecution.Number6;
+package controllingExecution.number6;
 
 //Измените метод test() так, чтобы он получал два дополнительных аргумента begin & end,
 // а значение testval проверялось на принадлежность диапазону [degin; end]

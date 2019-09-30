@@ -1,4 +1,4 @@
-package FromBook;
+package fromBook;
 
 public class Sun {
     int i = 0;

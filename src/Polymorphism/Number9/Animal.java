@@ -1,6 +1,4 @@
-package Polymorphism.Number9;
-
-import java.util.Random;
+package polymorphism.number9;
 
 class Rodent{
     void bite(){

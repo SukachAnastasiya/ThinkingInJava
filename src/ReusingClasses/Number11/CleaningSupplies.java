@@ -1,4 +1,4 @@
-package ReusingClasses.Number11;
+package reusingClasses.number11;
 
 class Cleanser {
     private String s = "Cleanser";

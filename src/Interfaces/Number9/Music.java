@@ -1,4 +1,4 @@
-package Interfaces.Number9;
+package interfaces.number9;
 
 interface Instrument {
     void play(Note n);

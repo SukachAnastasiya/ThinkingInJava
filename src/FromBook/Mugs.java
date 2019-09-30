@@ -1,4 +1,4 @@
-package FromBook;
+package fromBook;
 
 class Mug{
     Mug(int marker){

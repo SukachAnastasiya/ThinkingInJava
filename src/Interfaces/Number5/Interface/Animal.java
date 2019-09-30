@@ -1,4 +1,4 @@
-package Interfaces.Number5.Interface;
+package interfaces.number5.Interface;
 
 public interface Animal {
      void eat();

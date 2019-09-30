@@ -1,5 +1,5 @@
-package Interfaces.Number5.Implement;
-import Interfaces.Number5.Interface.Animal;
+package interfaces.number5.Implement;
+import interfaces.number5.Interface.Animal;
 
 class Dog implements Animal {
     public String toString() {

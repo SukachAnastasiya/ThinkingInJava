@@ -1,4 +1,4 @@
-package ControllingExecution.Number5;
+package controllingExecution.number5;
 
 //Напишите программу с двумя константами: обе константы состоят из чередующихся 0 и 1,
 //но у одной нулю равен младший бит, а у другой старший
